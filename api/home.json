@@ -1,0 +1,273 @@
+{
+    "menus":
+    [
+        {
+            "parentIcon": "fa-home",
+            "name": "Home",
+            "dropdownArrow": "fa fa-chevron-down",
+            "pageLink": "",
+            "cName": [
+                {
+                  "mName": "Dashboard",
+                  "linkName": "home"
+                },
+                {
+                  "mName": "Dashboard2",
+                  "linkName": "Dashboard2"
+                },
+                {
+                  "mName": "Dashboard3",
+                  "linkName": "Dashboard3"
+                }
+            ]
+    },
+        {
+            "parentIcon": "fa-edit",
+            "name": "Forms",
+            "dropdownArrow": "fa fa-chevron-down",
+            "cName": [
+                {
+                  "mName": "General Form",
+                  "linkName": "general-form"
+                },
+                {
+                  "mName": "Advanced Components",
+                  "linkName": "advanced-components"
+                },
+                {
+                  "mName": "Form Validation",
+                  "linkName": "form-validation"
+                },
+                {
+                  "mName": "Form Wizard",
+                  "linkName": "form-wizard"
+                },
+                {
+                  "mName": "Form Upload",
+                  "linkName": "form-upload"
+                },
+                {
+                  "mName": "Form Buttons",
+                  "linkName": "form-buttons"
+                }
+            ]
+    },
+        {
+            "parentIcon": "fa-desktop",
+            "name": "UI Elements",
+            "dropdownArrow": "fa fa-chevron-down",
+            "cName": [
+                {
+                  "mName": "General Elements",
+                  "linkName": "general-elements"
+                },
+                {
+                  "mName": "Media Gallery",
+                  "linkName": "media-gallery"
+                },
+                {
+                  "mName": "Typography",
+                  "linkName": "typography"
+                },
+                {
+                  "mName": "Icons",
+                  "linkName": "icons"
+                },
+                {
+                  "mName": "Glyphicons",
+                  "linkName": "glyphicons"
+                },
+                {
+                  "mName": "Widgets",
+                  "linkName": "widgets"
+                },
+                {
+                  "mName": "Invoice",
+                  "linkName": "invoice"
+                },
+                {
+                  "mName": "Inbox",
+                  "linkName": "inbox"
+                },
+                {
+                  "mName": "Calendar",
+                  "linkName": "calendar"
+                }
+            ]
+    },
+        {
+            "parentIcon": "fa-table",
+            "name": "Tables",
+            "dropdownArrow": "fa fa-chevron-down",
+            "cName": [
+                {
+                  "mName": "Tables",
+                  "linkName": "tables"
+                },
+                {
+                  "mName": "Table Dynamic",
+                  "linkName": "table-dynamic"
+                }
+            ]
+    },
+        {
+            "parentIcon": "fa-bar-chart-o",
+            "name": "Data Presentation",
+            "dropdownArrow": "fa fa-chevron-down",
+            "cName": [
+                {
+                  "mName": "Chart JS",
+                  "linkName": "chart-js"
+                },
+                {
+                  "mName": "Chart JS2",
+                  "linkName": "chart-js2"
+                },
+                {
+                  "mName": "Moris JS",
+                  "linkName": "moris-js"
+                },
+                {
+                  "mName": "ECharts",
+                  "linkName": "echarts"
+                },
+                {
+                  "mName": "Other Charts",
+                  "linkName": "other-charts"
+                }
+            ]
+    },
+        {
+            "parentIcon": "fa-clone",
+            "name": "Layouts",
+            "dropdownArrow": "fa fa-chevron-down",
+            "cName": [
+                {
+                  "mName": "Fixed Sidebar",
+                  "linkName": "fixed-sidebar"
+                },
+                {
+                  "mName": "Fixed Footer",
+                  "linkName": "fixed-footer"
+                }
+            ]
+    }
+],
+
+"menusLive":
+    [
+        {
+            "parentIcon": "fa-bug",
+            "name": "Additional Pages",
+            "dropdownArrow": "fa-chevron-down",
+            "cName": [
+                {
+                  "mName": "E-commerce",
+                  "linkName": "e-commerce"
+                },
+                {
+                  "mName": "Projects",
+                  "linkName": "projects"
+                },
+                {
+                  "mName": "Project Detail"
+                },
+                {
+                  "mName": "Contacts"
+                },
+                {
+                  "mName": "Profile"
+                }
+            ]
+    },
+        {
+            "parentIcon": "fa-windows",
+            "name": "Extras",
+            "dropdownArrow": "fa-chevron-down",
+            "cName": [
+                {
+                  "mName": "403 Error"
+                },
+                {
+                  "mName": "404 Error"
+                },
+                {
+                  "mName": "500 Error"
+                },
+                {
+                  "mName": "Plain Page"
+                },
+                {
+                  "mName": "Login Page"
+                },
+                {
+                  "mName": "Pricing Tables"
+                }
+            ]
+    },
+        {
+            "parentIcon": "fa-sitemap",
+            "name": "Multilevel Menu",
+            "dropdownArrow": "fa-chevron-down",
+            "cName": [
+                {
+                  "mName": "Level One"
+                },
+                {
+                  "mName": "Level Two"
+                }
+            ]
+    },
+        {
+            "parentIcon": "fa-laptop",
+            "name": "Landing Page",
+            "dropdownArrow": "label label-success pull-right",
+            "cName": []
+    }
+],
+
+"totalUser": [
+    {
+            "faUser": "fa-user",
+            "name": " Total Users",
+            "count": "2500",
+            "percent": "4%",
+            "upDown": "green"
+    },
+    {
+            "faUser": "fa-clock-o",
+            "name": " Average Time",
+            "count": "123.50",
+            "percent": "3%",
+            "upDown": "green"
+    },
+    {
+            "faUser": "fa-user",
+            "name": " Total Males",
+            "count": "2500",
+            "percent": "34%",
+            "upDown": "green"
+    },
+    {
+            "faUser": "fa-user",
+            "name": " Total Users",
+            "count": "4,567",
+            "percent": "12%",
+            "upDown": "red"
+    },
+    {
+            "faUser": "fa-user",
+            "name": " Total Users",
+            "count": "2,315",
+            "percent": "34%",
+            "upDown": "green"
+    },
+    {
+            "faUser": "fa-user",
+            "name": " Total Users",
+            "count": "7,325",
+            "percent": "34%",
+            "upDown": "green"
+    }
+]
+} 

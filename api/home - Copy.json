@@ -1,0 +1,97 @@
+{
+    "menus":
+    [
+        {
+            "parentIcon": "fa-home",
+            "name": "Home",
+            "dropdownArrow": "fa fa-chevron-down",
+            "pageLink": "",
+            "cName": ["Dashboard","Dashboard 2","Dashboard 3"]
+    },
+        {
+            "parentIcon": "fa-edit",
+            "name": "Forms",
+            "dropdownArrow": "fa fa-chevron-down",
+            "cName": ["General Form","Advanced Components","Form Validation","Form Wizard","Form Upload","Form Buttons"]
+    },
+        {
+            "parentIcon": "fa-desktop",
+            "name": "UI Elements",
+            "dropdownArrow": "fa fa-chevron-down",
+            "cName": ["General Elements","Media Gallery","Typography","Icons","Glyphicons","Widgets","Invoice","Inbox","Calendar"]
+    },
+        {
+            "parentIcon": "fa-table",
+            "name": "Tables",
+            "dropdownArrow": "fa fa-chevron-down",
+            "cName": ["Tables","Table Dynamic"]
+    },
+        {
+            "parentIcon": "fa-bar-chart-o",
+            "name": "Data Presentation",
+            "dropdownArrow": "fa fa-chevron-down",
+            "cName": ["Chart JS","Chart JS2","Moris JS","ECharts","Other Charts"]
+    },
+        {
+            "parentIcon": "fa-clone",
+            "name": "Layouts",
+            "dropdownArrow": "fa fa-chevron-down",
+            "cName": ["Fixed Sidebar","Fixed Footer"]
+    }
+],
+
+"menusLive":
+    [
+        {
+            "parentIcon": "fa-bug",
+            "name": "Additional Pages",
+            "dropdownArrow": "fa-chevron-down",
+            "cName": ["E-commerce","Projects","Project Detail", "Contacts", "Profile"]
+    },
+        {
+            "parentIcon": "fa-windows",
+            "name": "Extras",
+            "dropdownArrow": "fa-chevron-down",
+            "cName": ["403 Error","404 Error","500 Error","Plain Page","Login Page","Pricing Tables"]
+    },
+        {
+            "parentIcon": "fa-sitemap",
+            "name": "Multilevel Menu",
+            "dropdownArrow": "fa-chevron-down",
+            "cName": ["Level One","Level Two"]
+    },
+        {
+            "parentIcon": "fa-laptop",
+            "name": "Landing Page",
+            "dropdownArrow": "label label-success pull-right",
+            "cName": []
+    }
+],
+
+"totalUser": [
+    {
+            "faUser": "fa-user",
+            "name": " Total Users",
+            "count": "2500",
+            "upDown": "green"
+    },
+    {
+            "faUser": "fa-clock-o",
+            "name": " Average Time",
+            "count": "123.50",
+            "upDown": "green"
+    },
+    {
+            "faUser": "fa-user",
+            "name": " Total Males",
+            "count": "2500",
+            "upDown": "green"
+    },
+    {
+            "faUser": "fa-user",
+            "name": " Total Users",
+            "count": "2500",
+            "upDown": "green"
+    }
+]
+} 
